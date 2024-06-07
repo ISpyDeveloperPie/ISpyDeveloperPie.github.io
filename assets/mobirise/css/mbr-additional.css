@@ -2196,6 +2196,29 @@ a {
 .cid-ueZLwHXjWv .row {
   flex-direction: row-reverse;
 }
+.cid-uf3ceKUgud {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #edefeb;
+}
+.cid-uf3ceKUgud .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uf3ceKUgud .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uf3ceKUgud .row {
+  flex-direction: row-reverse;
+}
+.cid-uf3ceKUgud .mbr-description {
+  text-align: center;
+}
 .cid-ueZLThEgu5 {
   padding-top: 1rem;
   padding-bottom: 6rem;
